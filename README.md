@@ -34,6 +34,22 @@ These thirteen cards are your starting draw pile - shuffle them all together and
 Choose a player to lead first.
 You're now ready to begin.
 
+### Suggested Layout
+
+I think this section may be a little confusing, but I'll do my best to explain how we're actually moving things around.
+
+We keep score on a phone using the mobile app 'KeepScore' which we place on the table between us off to one side ('score side').
+Each of us places our deck (that is, cards that have never been active cards) oriented landscape slightly closer to us on the score side. 
+Closer to us still but still on the score side, we place our draw pile oriented portrait.
+When we need a discard pile, it lives face up adjacent to the draw pile.
+When we dispose of cards, we put them on the opposite side to score side face up.
+
+When a player leads for the first time in a round, they play their card on their side (in line with their deck) next to the score side in a portrait orientation.
+The other player lays the card they are playing opposite it, in a landscape position if they think they've lost the trick or a portrait position if they have won (or if it's a draw).
+If that player has won the trick, the leading player turns their card to a portrait orientation.
+This process is repeated for each subsequent trick in the round.
+This helps with counting up tricks at the end of the round. 
+
 ## Glossary
 
 I'm not hugely happy with this section - it's a collection of terms that we either need to change or explain better.
