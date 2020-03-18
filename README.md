@@ -62,3 +62,5 @@ I'm not hugely happy with this section - it's a collection of terms that we eith
  The player who leads the first trick of a round.
  - Upgrade:
  Discard a trump; draw a card from your **deck**; dispose of one card.
+ - Dispose:
+ Remove a card from your active cards, laying it aside.
