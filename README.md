@@ -20,7 +20,7 @@ The game is made up of a series of rounds of 5 tricks where Hearts are always tr
 Each round both players will have 5 cards with which to win tricks, but these are drawn from only 13 cards each.
 The challenge is to upgrade those 13 cards to give you the edge over your opponent.
 
-Early on you will be desparately trying to upgrade your cards, but as you approach 40 you will be racing to get there first with the cards that you have accumulated.
+Early on you will be desperately trying to upgrade your cards, but as you approach 40 you will be racing to get there first with the cards that you have accumulated.
 
 ### Set up
 
@@ -28,12 +28,12 @@ Each player plays with their own full 52 card deck.
 At any one time you will only have access to 13 of them, your Active 13.
 
 Both players start with all four 2s and the 3 of Hearts. 
-You then each shuffle your remaining deck and take eight more cards, 13 in total.
+You then each shuffle your remaining deck and take eight more cards; together these are your Active 13.
 Shuffle your Active 13 and place them face down as your draw pile. 
 Place the remaining deck face down nearby. 
-See the appendix "Suggested Layout" for more detail.
+See "Suggested Layout" for more detail.
 
-Choose a player to lead first - tallest, youngest, longest time since supermarket visit.
+Choose a player to lead first - tallest, youngest, longest time since leaving quarantine, your choice.
 
 ### During play
 
@@ -43,16 +43,15 @@ At the start of the round you draw five cards from your draw pile. These are the
 
 Before trick taking begins there is an opportunity to improve the quality of your hand and therefore your Active 13.
 
-To upgrade a card you must first spend a Heart card from your hand by placing it in your discard pile. 
+To upgrade a card you must first spend a Heart card from your hand by revealing it to your opponent and then placing it face down in your discard pile. 
 You will not be able to play it this round, but it is still one of your Active 13. 
 You use this to buy the top card from your deck, taking it into your hand. 
 You must then bin one card from your hand. 
-This card is put to one side and will not be used for the rest of the game.
+This card is put to one side face up and will not be used for the rest of the game.
 
 The lead player can upgrade as many time as they like, or until they run out of Hearts. 
-When they stop and stick with their hand then the other player has the opportunity to upgrade in the same way. 
+When they stop and stick with their hand the other player has the opportunity to upgrade in the same way. 
 This may lead to each player having different numbers of cards in hand - don't worry, this is normal.
-
 
 #### Trick taking
 
@@ -89,31 +88,33 @@ If there is a draw then they keep playing rounds until one player has more point
 
 ### Suggested Layout
 
-I think this section may be a little confusing, but I'll do my best to explain how we're actually moving things around.
+There are quite a few piles of cards in this game and you can keep track of them in whichever way you like, however we choose to arrange our cards like this:
 
-We keep score on a phone using the mobile app 'KeepScore' which we place on the table between us off to one side ('score side').
-Each of us places our deck (that is, cards that have never been active cards) oriented landscape slightly closer to us on the score side. 
-Closer to us still but still on the score side, we place our draw pile oriented portrait.
-When we need a discard pile, it lives face up adjacent to the draw pile.
-When we dispose of cards, we put them on the opposite side to score side face up.
+<img src = "https://i.imgur.com/Pe647hl.jpg" width = 500 alt = "Set up">
 
-When a player leads for the first time in a round, they play their card on their side (in line with their deck) next to the score side in a portrait orientation.
-The other player lays the card they are playing opposite it, in a landscape position if they think they've lost the trick or a portrait position if they have won (or if it's a draw).
-If that player has won the trick, the leading player turns their card to a portrait orientation.
-This process is repeated for each subsequent trick in the round.
-This helps with counting up tricks at the end of the round. 
+During trick taking we lay the cards out as below. By turning the cards landscape it quickly indicates that that card lost the trick. This helps with counting up the tricks at the end of the round.
+
+<img src = "https://i.imgur.com/8y87oBp.jpg" width = 500 alt = "Trick taking">
+
+In the example above the red player has led. 
+Both of the Ace of Diamonds stay portrait as it is a draw so both player will receive a point at the end of the round. 
+The red player has then led again after the draw but loses, so then the blue player leads.
+On the fifth trick only the blue player has a card and so automatically wins the trick. 
+This tells us that the red player must have upgraded one card this turn.
 
 ## Glossary
 
 I'm not hugely happy with this section - it's a collection of terms that we either need to change or explain better.
 
- - Active Cards:
- You have 13 active cards split between your hand, discard pile, draw pile and played out in tricks.
+ - Active 13:
+ The cards you currently have available which are split between your hand, discard pile, draw pile and played out in tricks.
  - Draw Pile:
  The pile of cards from which you draw your hand.
- - the Lead:
+ - The Lead:
  The player who leads the first trick of a round.
  - Upgrade:
- Discard a trump; draw a card from your **deck**; dispose of one card.
- - Dispose:
+ Discard a trump; draw a card from your deck; bin one card.
+ - Bin:
  Remove a card from your active cards, laying it aside.
+ - Deck:
+ The remaining cards from your deck that have not yet been part of your Active 13.
