@@ -90,11 +90,11 @@ If there is a draw then they keep playing rounds until one player has more point
 
 There are quite a few piles of cards in this game and you can keep track of them in whichever way you like, however we choose to arrange our cards like this:
 
-<img src = "https://i.imgur.com/Pe647hl.jpg" width = 600 alt = "Set up">
+<div style = "text-align: center"><img src = "https://i.imgur.com/Pe647hl.jpg" width = 600 alt = "Set up"></div>
 
 During trick taking we lay the cards out as below. By turning the cards landscape it quickly indicates that that card lost the trick. This helps with counting up the tricks at the end of the round.
 
-<img src = "https://i.imgur.com/8y87oBp.jpg" width = 500 alt = "Trick taking">
+<div style = "text-align: center"><img src = "https://i.imgur.com/8y87oBp.jpg" width = 500 alt = "Trick taking"></div>
 
 In the example above the red player has led. 
 Both of the Ace of Diamonds stay portrait as it is a draw so both players will receive a point at the end of the round. 
